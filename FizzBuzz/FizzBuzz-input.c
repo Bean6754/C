@@ -10,7 +10,7 @@ int main(void)
   printf("How many do you want to count? ");
   scanf("%d", &input);
 
-  for(i = 1; i < input; i = i + 1)
+  for(i = 1; i < (input + 1); i = i + 1)
   {
     //printf("Value of i: %d\n", i);
 
@@ -28,7 +28,7 @@ int main(void)
     }
     else
     {
-      printf("%d\n", i + 1);
+      printf("%d\n", i);
     }
   }
 
