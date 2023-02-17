@@ -1,4 +1,4 @@
-// Author: Matthew Dean.
+// Author: Isabella Dean.
 
 #include <stdio.h>
 #include <stdlib.h>
